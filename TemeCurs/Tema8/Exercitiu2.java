@@ -1,4 +1,4 @@
-package Teme8;
+package TemeCurs.Tema8;
 
 import java.util.Scanner;
 
