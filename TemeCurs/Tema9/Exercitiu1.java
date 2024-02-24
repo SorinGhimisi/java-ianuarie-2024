@@ -6,7 +6,6 @@ public class Exercitiu1 {
 
 
         String hello="Hello";
-        hello.length();
         if (hello.length()>5){
             System.out.println("Hello has more than 5 characters");
         }else if (hello.equals("Hello")){
