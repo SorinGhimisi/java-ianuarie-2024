@@ -13,8 +13,8 @@ public class Exercitiu2 {
                 System.out.println("Valoarea 'B' - Good");
                 break;
 
-        case 'C':
-            System.out.println("Valoarea 'C' - Average");
+            case 'C':
+                System.out.println("Valoarea 'C' - Average");
 
             default:
                 System.out.println("Invalid grade");
